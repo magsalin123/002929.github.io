@@ -1,0 +1,73 @@
+body, h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+  
+  }
+  
+  body{
+    font-family: 'Bacasime Antique', serif;
+    background-image: url(https://img.rawpixel.com/private/static/images/website/2022-05/pf-s112-pa-56_1.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=022b851a75561c5e9d9f62ab95cbc5eb);
+    padding: 200px;
+    font-size: 150%;
+  }
+
+
+
+  .text a{
+    margin-top: 1px; 
+    display:inline-block;
+    background: #670e0e;
+    border: 1px #705959;
+    color: #f8f4f4;
+    border-radius: 30px; 
+    text-decoration: none;
+    position: right;
+    text-align: right;
+    padding: 10px 30px;
+      
+  }
+  
+  nav img{
+    max-width: 0;
+    height: 0;
+  
+  }
+  
+  nav{
+    display: flex;
+    align-items: right;
+    justify-content: space-between;
+    text-align: right;
+    padding: 30px;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
+  nav ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  main {
+    margin: 70px;
+  }
+  
+  .right-text {
+    text-align: right; 
+    font-weight: medium;
+    font-size: 18px;
+    margin-top: 20px;
+  }
+  
+  footer {
+    background-color: #705959;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+  }
+  
+  
+  
